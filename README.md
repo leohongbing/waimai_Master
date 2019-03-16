@@ -3,6 +3,10 @@
 
 > A Vue.js project
 
+## web SPA 效果图：
+
+ ![image](https://github.com/leohongbing/waimai_Master/blob/master/gshop.gif)
+
 ## Build Setup
 
 ``` bash
